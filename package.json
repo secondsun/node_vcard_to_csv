@@ -1,0 +1,19 @@
+{
+ "name": "qrparser",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+   "express": "~4.2.0",
+   "underscore": "~1.8.2",
+   "csv": "~0.4.1",
+   "urlencode": "~0.2.0",
+   "vcardparser": "~1.0.3",
+   "multer": "~0.1.8"
+ },
+ "devDependencies": {
+   "gulp": "~3.8.7",
+   "main-bower-files": "~2.0.0",
+   "gulp-clean": "~0.3.1",
+   "render": "~0.1.4"
+ }
+}
